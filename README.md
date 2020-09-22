@@ -2,4 +2,4 @@
 
 ## Cardápio Digital para o Armazem82
 
-![imageshrink](https://github.com/Maurelima/ImageShrink/blob/master/assets/images/image.png)
+![cardapio82](https://github.com/Maurelima/Cardapio82/blob/master/res/project/imagem.png)
